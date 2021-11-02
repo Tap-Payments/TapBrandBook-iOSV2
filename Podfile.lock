@@ -1,0 +1,41 @@
+PODS:
+  - TapAdditionsKitV2 (0.0.8):
+    - TapSwiftFixesV2
+  - TapFontsKitV2 (0.0.3):
+    - TapAdditionsKitV2
+  - TapLoggerV2 (1.0.1):
+    - TapAdditionsKitV2
+  - TapSwiftFixesV2 (1.0.0):
+    - TapSwiftFixesV2/CoreGraphics (= 1.0.0)
+    - TapSwiftFixesV2/Exceptions (= 1.0.0)
+    - TapSwiftFixesV2/Threading (= 1.0.0)
+  - TapSwiftFixesV2/CoreGraphics (1.0.0)
+  - TapSwiftFixesV2/Exceptions (1.0.0)
+  - TapSwiftFixesV2/Threading (1.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - TapAdditionsKitV2
+  - TapFontsKitV2
+  - TapLoggerV2
+  - TapSwiftFixesV2
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - TapAdditionsKitV2
+    - TapFontsKitV2
+    - TapLoggerV2
+    - TapSwiftFixesV2
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  TapAdditionsKitV2: ba369802e9575c3475ce6d5af228cf60c68edfc9
+  TapFontsKitV2: f2a5b342c18784dd2068c1885313057780c49a3d
+  TapLoggerV2: ef63571a8b96640c7bb171724ff61aef3aa21e71
+  TapSwiftFixesV2: a8623a7273c6790b9754ec7e272e96fce7d3a800
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: c9ec83cddb99d09bd694f4096cc4baf61aa4a943
+
+COCOAPODS: 1.10.1

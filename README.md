@@ -1,1 +1,2 @@
-# TapBrandBook-iOSV2
+# TapBrandBook-iOS
+Brandbook for iOS
